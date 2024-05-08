@@ -1,0 +1,29 @@
+header {
+  justify-content: space-between;
+  background-color: #5a0867;
+  padding: 1% 2%;
+  display: flex;
+  align-items: center;
+  
+}
+
+header {
+  color: #ffffff;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 18px; 
+  border-radius: 4px;
+}
+
+header a.logo {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+header a:hover {
+  background-color: #860482;
+  color: #212121;
+}
+header a.active {
+  background-color: #860482;
+}
